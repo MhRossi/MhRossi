@@ -105,7 +105,7 @@ Posto um pouco do meu caminho na programação aqui:
   height="200"
 />
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhRossi&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=3" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhRossi&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4" 
   height="200"
 />
 
